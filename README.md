@@ -26,3 +26,5 @@ https://wiki.zimbra.com/wiki/Translations#Working_with_translations_in_Gettext_f
 THam khao
 https://github.com/nguyennv/zimbra-vietnamese/find/master
 add cac file của mình vào và chạy như hướng dẫn
+
+Dựa vào các file này và tôi cũng đã sửa lại các lỗi chính tả.

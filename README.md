@@ -22,3 +22,7 @@ Commit vào kho git local (cloned) & push các thay đổi lên kho của bạn 
 Tạo pull request để đóng góp & chờ approval
 Hướng dẫn dịch
 https://wiki.zimbra.com/wiki/Translations#Working_with_translations_in_Gettext_format
+
+THam khao
+https://github.com/nguyennv/zimbra-vietnamese/find/master
+add cac file của mình vào và chạy như hướng dẫn
